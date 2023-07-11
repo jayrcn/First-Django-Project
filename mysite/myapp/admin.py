@@ -9,5 +9,5 @@ admin.site.register(Book)
 #This allows us to directly manage the table directly in the admin page for our Django project
 
 #How to register a new model in the admin file?!!
-#We just edit admin.py for the app and insert a reference to our newly created tables
+#We just edit admin.py for the app and insert a reference to our newly created tables, tables are crated via models.py***
 #SEE EXAMPLE ABOVE
